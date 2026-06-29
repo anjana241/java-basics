@@ -1,4 +1,4 @@
-# Java-Basics
+# java-basics
 
 Welcome to my Java learning repository.
 
